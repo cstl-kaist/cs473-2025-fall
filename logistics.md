@@ -16,24 +16,22 @@ permalink: /logistics/
 
 <!-- TOC --><a name="prerequisites"></a>
 ## Prerequisites
-There are no official course prerequisites. But the assignments and the final project will require building web-based user interfaces, so some fluency in programming is needed. Web programming skills are a plus, but not required. The course will include tutorials on HTML, CSS, and JavaScript.
+Though there is no official prerequisite, students are strongly encouraged to have previously taken CS374 or a similar introductory HCI class. The term project will require building web-based user interfaces, so some fluency in programming is needed.
 
 <!-- TOC --><a name="grading"></a>
 ## Grading
 Here's a breakdown of how the grading will work:
-* Design Project: 50%
-* Mini Project: 10%
-* Assignments: 20%
-* Nano quizzes: 10%
+* Team Project: 40%
+* Final Exam: 30%
+* Reading Response/Quizzes: 10%
 * Class & Studio participation: 10%
+* Topic Presentation: 10%
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
 **Self and peer assessment**: [Metacognition](https://en.wikipedia.org/wiki/Metacognition) is an extremely powerful way to learn, and self- and peer-assessment offer great opportunities for metacognition. You'll be asked to assess yourself, as well as your teammates after some project milestones.
 
 **Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
-
-**Nanoquiz and in-class activities**: You'll get to see your nanoquiz grades after class. **3** lowest grades will be removed in your final grade. This covers all lateness and absence cases, so use them sparingly. If you have a special situation (e.g., medical, family) regarding your attendance, please talk to course staff.
 
 **Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
 
@@ -89,7 +87,7 @@ Unfortunately, no. Please check out grad-level HCI courses.
 Please talk to Prof. Seering in person during the first week of class.
 
 **What's the course load like?**  
-This will be a course that will have reading / video materials for every class, weekly milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines or exams, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
+This will be a course that will have reading / video materials for every class, weekly milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
 
 **The course seems to require active participation during class, but my English isn't quite good. Maybe I shouldn't take it?**  
 We recognize that a vast majority of students won't be comfortable with speakinng English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.
