@@ -1,9 +1,9 @@
 ---
-type: noclass
-date: 2024-05-16T10:30:00+9:00
+type: class
+date: 2024-11-21T10:30:00+9:00
 week: 12
 class:
- - title: 'No class'
+ - title: 'Misinformation: Going Antiviral'
 material:
  - title: 'None'
 assignment:

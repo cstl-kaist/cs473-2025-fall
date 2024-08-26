@@ -1,9 +1,9 @@
 ---
-type: studio
-date: 2024-05-28T10:30:00+9:00
+type: class
+date: 2024-12-03T10:30:00+9:00
 week: 14
 class:
- - title: '[Studio] DP5: Prototyping Round 3 + Usability Testing'
+ - title: 'Unintended Consequences'
 material:
  - title: 'None'
 assignment:

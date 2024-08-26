@@ -1,9 +1,9 @@
 ---
 type: class
-date: 2024-05-30T10:30:00+9:00
+date: 2024-12-05T10:30:00+9:00
 week: 14
 class:
- - title: 'HCI Research & Career Paths'
+ - title: 'Antisocial Behavior & Moderation'
 material:
  - title: 'None'
 assignment: 

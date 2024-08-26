@@ -1,14 +1,12 @@
 ---
-type: studio
-date: 2024-05-09T10:30:00+9:00
+type: class
+date: 2024-11-14T10:30:00+9:00
 week: 11
 class:
- - title: '[Studio] DP4: Prototyping Round 2 + Heuristic Evaluation'
+ - title: 'TBD'
 material:
  - title: 'None'
 assignment:
- - url: https://hci.cstlab.org/projects/06_DP4
-   title: 'DP4 Write-up'
 hide_time: true
 hide_from_announcements: true
 ---
