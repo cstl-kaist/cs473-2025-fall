@@ -1,12 +1,11 @@
 ---
-type: class
-date: 2024-03-12T10:30:00+9:00
-week: 3
+type: noclass
+date: 2024-09-17T10:30:00+9:00
+week: 8
 class:
- - title: 'Prototyping'
+ - title: 'No class (Chuseok Holiday)'
 material:
- - url: https://docs.google.com/document/d/1HzU5gEPbLzKT5JDTSGnpSrPZ-gZE0QsstyJasZO6C-U/edit?usp=sharing
-   title: 'Reading (Prototyping 1/2)'
+ - title: 'None'
 assignment:
 hide_time: true
 hide_from_announcements: true
