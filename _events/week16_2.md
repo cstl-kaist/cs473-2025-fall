@@ -1,6 +1,6 @@
 ---
 type: noclass
-date: 2024-12-17T10:30:00+9:00
+date: 2024-12-19T10:30:00+9:00
 week: 16
 class:
  - title: 'No class (Finals week)'
