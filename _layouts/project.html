@@ -9,11 +9,6 @@ title: page.title
     <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
   </header>
 
-  <article class="post-content">
-    <h2>Test test test</h2>
-  </article>
-
-
   <div>
     {% if page.due_event %}
     <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Tue) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
