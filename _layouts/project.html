@@ -10,6 +10,9 @@ title: page.title
   </header>
 
   <div>
+    <h2>Let's see what this does</h2>
+  </div>
+  <div>
     {% if page.due_event %}
     <span style="font-weight: bold"><mark>Due Date: {{ page.due_event.date | date: site.dateformat }} (Tue) {{ page.due_event.date | date: "%H:%M" }}</mark></span>
     {% elsif page.title == 'Mini Project' %}
