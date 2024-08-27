@@ -5,6 +5,7 @@ title: 'Mini Project'
 pdf:
 attachment:
 solutions:
+hide_from_announcements: true
 # due_event: 
 #     type: due
 #     date: 2024-03-19T23:59:00
