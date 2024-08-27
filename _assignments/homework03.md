@@ -5,6 +5,7 @@ title: 'Homework #3 - Connecting Figma to Web Prototyping'
 pdf:
 attachment:
 solutions:
+hide_from_announcements: true
 # due_event: 
 #     type: due
 #     date: 2024-05-14T23:59:00+9:00

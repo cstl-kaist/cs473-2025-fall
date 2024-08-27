@@ -9,6 +9,7 @@ due_event:
     type: due
     date: 2024-03-14T23:59:00
     description: 'Assignment #1 due'
+hide_from_announcements: true
 ---
 ## What do I do?
 In this assignment, you will find **two user interface examples** around you, one that you think has good usability and one that you think has bad usability. Examples don't have to be graphical user interfaces: they can be smartphone apps, websites, bathroom signs, cafe menus, car dashboards, etc. Make sure to avoid analyzing the entire service or app, but focus on particular parts of the interface that you think have noteworthy usability issues. Also, most interfaces will have good and bad aspects at the same time, so feel free to cover both sides in your analysis. But for each example, make your final decision about whether it's a good (hall of fame) or bad (hall of shame) example overall.
