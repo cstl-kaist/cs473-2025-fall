@@ -5,92 +5,70 @@ permalink: /topicpresentation/
 ---
 <!-- TOC start -->
 
-- [Prerequisites](#prerequisites)
-- [Grading](#grading)
-- [Academic Integrity and Collaboration](#academic-integrity-and-collaboration)
-- [Design Project](#design-project)
-- [Textbooks](#textbooks)
-- [FAQ](#faq)
+- [What do I do?](#what)
+- [Why do this?](#why)
+- [How do I submit?](#submit)
+- [What should a lesson plan look like?](#lesson)
+- [What should I submit after the presentation?](#after)
+- [How is it going to be graded?](#grading)
 
 <!-- TOC end -->
 
-<!-- TOC --><a name="prerequisites"></a>
-## Prerequisites
-Though there is no official prerequisite, students are strongly encouraged to have previously taken CS374 or a similar introductory HCI class. The term project will require building web-based user interfaces, so some fluency in programming is needed.
+<!-- TOC --><a name="what"></a>
+## What do I do?
+Once a semester, you'll lead a class section for **25 minutes**. This means you'll present in front of the class, show examples, run activities, ask and answer questions, and facilitate class discussion. Here are the three steps that are involved:
+* Share your lesson plan with the course staff and get feedback. This is a written document (maximum one page) that needs to be sent to the course staff.
+* Read the pre-class material thoroughly (not just the required ones but all readings for that day). Also, read peer students' critiques for the assigned reading and summarize them.
+* Submit your presentation material and activity document after your presentation.
+
+Your presentation should include the following:
+* Present a few real-life examples that represent the topics covered in the pre-class material. Explain what the examples are about, why they matter, and what the implications are. Feel free to promote student discussion regarding the examples.
+* Design and run an in-class activity, which should ask students to analyze, design, make, or present something.
+
+Key in your activity design is to include **interactive components**, such as a short design exercise, a simulated crowdsourcing task, a poll, group brainstorming, etc. Please mimimize the amount of one-way lecturing to students. Surprisingly, designing for interactivity requires more time, thought, and effort than preparing a one-way lecture. So please plan ahead and talk to the course staff for feedback and help.
+
+<!-- TOC --><a name="why"></a>
+## Why do this?
+One-way lectures are boring, and they are not the best way to learn. You learn better by teaching and engaging.
+
+<!-- TOC --><a name="submit"></a>
+## How do I submit?
+Here's a timeline for a Mon (Wed) presentation:
+* Thu (Mon) night: Email your **lesson plan** in PDF by 11:59pm two days before class, which would be Thursday (if presenting on Mon) or Monday (if presenting on Wed). This is to give you enough time to iterate on your plan and get feedback or help from the course staff. Please cc all your team members in the email.
+* Fri (Tue) noon: Prof sends you **feedback** on the lesson plan.
+* Fri (Tue) night: Send your **(tentative) slides** by 11:59pm the night before your presentation. All examples and activity design should be finalized. Minor tweaks can be made until the class. This is to ensure that Prof can better sync his part of the class with the presentation.
+* Right before class: Join the Zoom early (at least 10 mins) to check your audio, video, and screen setup.
+* Mon (Wed) after class: Email your **final presentation slides and activity document**, both in PDF, by 11:59pm the day of your presentation. Your slides will be posted on the course website.
+
+<!-- TOC --><a name="lesson"></a>
+## What should a lesson plan look like?
+This is a high-level outline of your class. Please send it as PDF to the staff email cs473@kixlab.org. A bullet-pointed list of things to cover is fine. Keep it to maximum one page. Make sure to include an estimate of how long you plan to spend for each component. The following should be included:
+* **Learning objective**: Maximum 2-3 short statements of what students will learn or achieve by the end of your class.
+* **Real-life Examples**: List examples you are planning to present to class. Add a short description about what they are and what connection you are trying to make with the course topic.
+* **Activity**: Design a short activity for students to practice and apply the concepts related to the topic of the class. Asking students to work in small groups (2-4) is a good idea. Be creative and innovative. Actively use physical materials (e.g., paper or post-it) as well as digital tools (e.g., Google forms for collecting responses, Google docs for collaborative document editing). A good activity asks students to generate a concrete artifact as a result. In the lesson plan, include an initial plan of your activity.
+
+<!-- TOC --><a name="after"></a>
+## What should I submit after the presentation?
+After your presentation, please send the following to the staff email (cs473@kixlab.org): (1) a PDF file of your final slides used in class and (2) an activity document that includes the following:
+* Learning objective of the activity
+* Detailed instructions for running the activity, to the level someone outside of your team can replicate
+* Instructions given to students during class
+* Any material used for the activity: photos of physical materials or links to digital tools (or screenshots)
+* Reflection: What worked well and not? What would you change to make it work better?
 
 <!-- TOC --><a name="grading"></a>
-## Grading
-Here's a breakdown of how the grading will work:
-* Team Project: 40%
-* Final Exam: 30%
-* Reading Response/Quizzes: 10%
-* Class & Studio participation: 10%
-* Topic Presentation: 10%
+## How is it going to be graded?
+Your presentation will be graded by the course staff. Here's the grade break-down:
+* **Lesson plan (10%)**: Submitted on time? How organized is the class plan? If everything goes as planned, is it going to be an engaging session?
+* **Real-life Examples (20%)**: Are the examples accurately and effectively representing the class topic? Are the examples timely, interesting, creative, thought-provoking, and unique?
+* **Activity (40%)**: Did you design an engaging activity that reflects the topic of class? Did students actively participate in the discussion? Were your instructions clear? Is time well-managed? Did the post-activity discussion point to the main lessons?
+* **Presentation (30%)**: How well did the overall presentation go? This includes the organization, your delivery both verbally and visually, level of preparation, quality of material, fluidity of discussion, and peer students' reaction.
 
-**Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
+## Extra Credit
+First volunteers are often at a disadvantage. Presenters in the first two sessions will get extra credit: 10% for the first session presenters and 5% for the second session presenters.
 
-**Self and peer assessment**: [Metacognition](https://en.wikipedia.org/wiki/Metacognition) is an extremely powerful way to learn, and self- and peer-assessment offer great opportunities for metacognition. You'll be asked to assess yourself, as well as your teammates after some project milestones.
+## Team Presentation
+You will be presenting in a team. You should work closely in your team to plan the 25-minute lesson. Every member should contribute to the preparation and presentation. The general expectation goes high as the number of members in a team increases, in terms of the level of preparation, coverage of the pre-class material, etc.
 
-**Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
-
-**Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
-
-<!-- TOC --><a name="academic-integrity-and-collaboration"></a>
-## Academic Integrity and Collaboration
-
-You may discuss assignments with others, but you should always give credit and be intellectually honest.
-
-For all individual assignments, you should write the solution entirely on your own. Sharing or seeing other students' solutions (written material or code) is not allowed. If you discussed the assignment with anyone, you should explicitly list them in your report.
-
-For programming assignments, you may use third-party libraries, but you should give proper attribution. If the assignment asks you to implement a particular feature, you should create your own version.
-
-For teamwork, you should try your best to contribute to your team's success and actively collaborate with your teammates. Making no or minimal contribution for any given milestone is problematic and can cause significant damage to your team. If that is the case, please report to the course staff and we will make appropriate adjustments to the team and grading, which might sometimes involve re-assignment of teams and individual grading.
-
-Failure to adhere to these policies may lead to serious penalties, including an F in the course and reference to the departmental and university committee.
-
-<!-- TOC --><a name="design-project"></a>
-## Design Project
-A major part of the course is for you to design an interactive prototype that is carefully catered to your target users. This will be done in a team of 3-4 students.
-
-**How can I form a team?**  
-While we want to give total freedom to students in team formation, (1) students tend to work with friends who are similar to them in terms of preferences and skillsets, and (2) students with no existing ties might find it difficult to find teammates. We will give you some freedom, but there might be some requirements enforced. More details will be announced once we have a final class roster, because we need to know the class size and composition for a smooth team formation process.
-
-**I'm worried my course grade will depend on my team members.**  
-To some extent, yes. You'll be doing fewer and fewer things alone in your career, and working in teams and managing team dynamics is something you'll hopefully learn in this course.
-
-**Some members of my team are not contributing.**  
-While we won't be tracking detailed levels of contribution of each member, we will certainly penalize cases where some members made no or signficantly less contributions than the other teammates. See "Academic Integrity and Collaboration" for details.
-
-<!-- TOC --><a name="textbooks"></a>
-## Textbooks
-There is no official textbook. We will mix various resources that best explain the core concepts in human-computer interaction.
-
-This doesn't mean that there aren't great books. Here's a short selection of books we recommend:
-
-* Don Norman, [The Design of Everyday Things](https://www.yes24.com/24/goods/8448278?scode=032&OzSrank=1), 1990.
-* Jef Raskin, [The Humane Interface](https://www.yes24.com/24/goods/247022?scode=032&OzSrank=1), ACM Press, 2000.
-* Steve Krug, [Don't Make Me Think](https://www.yes24.com/24/goods/1550565?scode=032&OzSrank=2), New Riders Publishing, 2005.
-* Edward Tufte, [The Visual Display of Quantitative Information](https://www.yes24.com/24/Goods/1052749?Acode=101), Graphics Press, 1983.
-
-<!-- TOC --><a name="faq"></a>
-## FAQ
-**Will there be an attendance check?**  
-Each class will start with a quick nanoquiz, which asks simple questions about what you read or watched before coming to class. These questions will be extremely simple and easy -- more like an attendance check rather than problem solving.
-
-**I'm not a CS student. Can I take the course?**  
-Yes, as long as you meet the prerequisites.
-
-**I'm a graduate student. Can I take the course?**  
-Unfortunately, no. Please check out grad-level HCI courses.
-
-**Can I audit the course?**  
-Please talk to Prof. Seering in person during the first week of class.
-
-**What's the course load like?**  
-This will be a course that will have reading / video materials for every class, weekly milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
-
-**The course seems to require active participation during class, but my English isn't quite good. Maybe I shouldn't take it?**  
-We recognize that a vast majority of students won't be comfortable with speakinng English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.
-
-**How do I learn more about HCI research happening on campus?**  
-We have a wonderful on-campus community of HCI researchers called [HCI@KAIST](https://hci.kaist.ac.kr/). It features 20+ labs across multiple departments. Please check out the website for more information.
+## Late Policy
+You should be present on the day of your presentation. No late presentations are allowed.
