@@ -9,7 +9,7 @@ material:
  - url: https://www.tandfonline.com/doi/pdf/10.1207/S15327051HCI1523_5
    title: 'The Intellectual Challenge of CSCW.'
 assignment:
- - url: https://docs.google.com/forms/u/4/d/e/1FAIpQLSdb7HqBvh036YQ7YrAWuQrD985qdr9sPacFcG14rApOL0GLmA/viewform?usp=send_form
+ - url: https://docs.google.com/forms/d/e/1FAIpQLSdQNG14Gzz5utB9j2o4PQh1g8t345cSg-LHIXaAXFHbQUPU0A/viewform?usp=sf_link
    title: Course sign-up  
 hide_time: true
 hide_from_announcements: true
