@@ -1,12 +1,12 @@
 ---
-type: class
+type: noclass
 date: 2024-10-03T10:30:00+9:00
 week: 5
 class:
- - title: 'Growing Pains'
+ - title: 'No class (National Foundation Day)'
 material:
- - url: https://docs.google.com/document/d/1S9nDd4KKe30MpVjDqj3ulKu72SXMQe60ZZAN4fLGfyg/edit?usp=sharing
-   title: 'Reading'
+ - url: 
+   title: 'None'
 assignment:
 hide_time: true
 hide_from_announcements: true
