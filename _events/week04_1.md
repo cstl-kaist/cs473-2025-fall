@@ -5,8 +5,8 @@ week: 4
 class:
  - title: '[Studio 1] Ideation'
 material:
- - url: https://docs.google.com/document/d/1WWT9ir8gimboA6w0ZLpvFfJwWeA-X-zqY1ZelCdAwjw/edit?usp=sharing
-   title: 'Reading'
+ - url: 
+   title: 'None'
 assignment:
  - url: 
    title: 'Project 1: Ideation'

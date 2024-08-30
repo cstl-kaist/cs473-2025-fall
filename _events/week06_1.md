@@ -5,8 +5,8 @@ week: 6
 class:
  - title: '[Studio 2] Pitch'
 material:
- - url: https://docs.google.com/document/d/17K0JUdV648vep_bALCpQVvghTbvGmbCUEOoNAQj43Ik/edit?usp=sharing
-   title: 'Reading'
+ - url: 
+   title: 'None'
 assignment:
  - url: 
    title: 'Project 2: Pitch'

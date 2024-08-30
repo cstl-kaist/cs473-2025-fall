@@ -7,7 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
- - url: https://hci.cstlab.org/projects/07_DP5
+ - url: 
    title: 'Project 5: Presentation and Write-up' 
 hide_time: true
 hide_from_announcements: true

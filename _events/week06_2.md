@@ -5,7 +5,8 @@ week: 6
 class:
  - title: 'Collaboration'
 material:
- - title: 'None'
+ - url: 'google.com'
+   title: 'Reading'
 assignment:
 hide_time: true
 hide_from_announcements: true

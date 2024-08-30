@@ -6,9 +6,7 @@ class:
  - title: 'Governance (part 2)'
 material:
  - url: https://www.youtube.com/watch?v=Aszl5avDtek
-   title: 'Video 1'
- - url: https://www.ted.com/talks/clay_shirky_how_social_media_can_make_history/discussion
-   title: 'Video 2'
+   title: 'Reading'
 assignment:
 hide_time: true
 hide_from_announcements: true
