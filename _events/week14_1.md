@@ -5,7 +5,7 @@ week: 14
 class:
  - title: 'Human-AI interaction'
 material:
- - url: 'google.com'
+ - url: 
    title: 'Reading'
 assignment:
 hide_time: true

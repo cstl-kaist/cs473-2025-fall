@@ -5,7 +5,7 @@ week: 9
 class:
  - title: 'Evaluation (part 2)'
 material:
- - url: https://docs.google.com/document/d/1lJ7R7AZlhpJ3aq4HYFT2FFwZDQZ_Nw0PD5pNoXh1u5Q/edit?usp=sharing
+ - url: 
    title: 'Reading'
 assignment:
 hide_time: true

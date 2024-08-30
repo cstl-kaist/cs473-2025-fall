@@ -5,7 +5,7 @@ week: 9
 class:
  - title: 'Evaluation'
 material:
- - url: 'google.com'
+ - url: 
    title: 'Reading'
 assignment: 
 hide_time: true

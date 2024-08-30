@@ -5,7 +5,7 @@ week: 3
 class:
  - title: 'Interactions'
 material:
- - url: https://docs.google.com/document/d/1obCqmsaEeGt5uB7tltgzqYtgqAPTTi8PiWXFgStkGTI/edit?usp=sharing
+ - url: 
    title: 'Reading'
 assignment:
 hide_time: true

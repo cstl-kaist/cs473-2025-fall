@@ -5,7 +5,7 @@ week: 11
 class:
  - title: 'Emergent Harms'
 material:
- - url: 'google.com'
+ - url: 
    title: 'Reading'
 assignment:
 hide_time: true

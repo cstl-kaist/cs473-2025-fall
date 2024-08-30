@@ -5,7 +5,7 @@ week: 13
 class:
  - title: 'Governance (part 2)'
 material:
- - url: https://www.youtube.com/watch?v=Aszl5avDtek
+ - url: 
    title: 'Reading'
 assignment:
 hide_time: true

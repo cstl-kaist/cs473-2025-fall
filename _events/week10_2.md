@@ -5,7 +5,7 @@ week: 10
 class:
  - title: 'Conflict'
 material:
- - url: https://docs.google.com/document/d/1nqLVUPKESblBIkRHIuPTTOHhuaBV6IRyH9C6ZKyKcTw/edit?usp=sharing
+ - url: 
    title: 'Reading'
 assignment: 
 hide_time: true

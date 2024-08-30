@@ -6,8 +6,8 @@ class:
  - url: 
    title: 'Foundations and Growth (part 2)'
 material:
- - url: https://docs.google.com/document/d/1fSrc-vv9mBqtxrwTc_06SiSr_URJa7W_fTplAc1aEX0/edit?usp=sharing
-   title: 'Reading'
+ - url: https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf
+   title: 'Reading (Ch 5-6)'
 assignment: 
  - url:
    title: 'Project 0: Team Formation'

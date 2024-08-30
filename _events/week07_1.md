@@ -5,7 +5,7 @@ week: 7
 class:
  - title: 'Collaboration (part 2)'
 material:
- - url: https://docs.google.com/document/d/143tF-g3d9KOYScVAqroCiMq5xn1xRlmmWxVt7fXpG3s/edit?usp=sharing
+ - url: 
    title: 'Reading'
 assignment:
  - url: 
