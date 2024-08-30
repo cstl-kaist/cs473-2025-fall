@@ -3,7 +3,7 @@ type: class
 date: 2024-10-10T10:30:00+9:00
 week: 6
 class:
- - title: 'Collaboration (part 2)'
+ - title: 'Collaboration'
 material:
  - title: 'None'
 assignment:
