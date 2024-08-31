@@ -7,7 +7,7 @@ class:
    title: 'Foundations and Growth'
 material:
  - url: https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf
-   title: 'Reading (Ch. 4-5)'
+   title: 'Reading (Chapters 4-5)'
 assignment:
 hide_time: true
 hide_from_announcements: true

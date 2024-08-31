@@ -9,7 +9,6 @@ permalink: /logistics/
 - [Grading](#grading)
 - [Academic Integrity and Collaboration](#academic-integrity-and-collaboration)
 - [Design Project](#design-project)
-- [Textbooks](#textbooks)
 - [FAQ](#faq)
 
 <!-- TOC end -->
@@ -29,11 +28,7 @@ Here's a breakdown of how the grading will work:
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
-**Self and peer assessment**: [Metacognition](https://en.wikipedia.org/wiki/Metacognition) is an extremely powerful way to learn, and self- and peer-assessment offer great opportunities for metacognition. You'll be asked to assess yourself, as well as your teammates after some project milestones.
-
-**Studio attendance**: It's mandatory. Your TA mentor will keep track of your attendance and reflect it on your participation grade.
-
-**Late policy**: No late submissions are allowed for the project. For individual assignments, you'll lose 10% for each late day. Submissions will be accepted until three days after the deadline. No submission automatically gets a 0.
+**Late policy**: For individual assignments, you'll lose 10% for each late day. For each milestone deadline in the design project, all members of your team will lose 10% for each late day. Submissions for both the individual assignments and design project milestones will be accepted until three days after the deadline. After then you'll get 0 on that assignment. Please note that late submissions for midterm and final presentations are not allowed.
 
 <!-- TOC --><a name="academic-integrity-and-collaboration"></a>
 ## Academic Integrity and Collaboration
@@ -42,7 +37,7 @@ You may discuss assignments with others, but you should always give credit and b
 
 For all individual assignments, you should write the solution entirely on your own. Sharing or seeing other students' solutions (written material or code) is not allowed. If you discussed the assignment with anyone, you should explicitly list them in your report.
 
-For programming assignments, you may use third-party libraries, but you should give proper attribution. If the assignment asks you to implement a particular feature, you should create your own version.
+For programming work, you may use third-party libraries, but you should give proper attribution.
 
 For teamwork, you should try your best to contribute to your team's success and actively collaborate with your teammates. Making no or minimal contribution for any given milestone is problematic and can cause significant damage to your team. If that is the case, please report to the course staff and we will make appropriate adjustments to the team and grading, which might sometimes involve re-assignment of teams and individual grading.
 
@@ -60,17 +55,6 @@ To some extent, yes. You'll be doing fewer and fewer things alone in your career
 
 **Some members of my team are not contributing.**  
 While we won't be tracking detailed levels of contribution of each member, we will certainly penalize cases where some members made no or signficantly less contributions than the other teammates. See "Academic Integrity and Collaboration" for details.
-
-<!-- TOC --><a name="textbooks"></a>
-## Textbooks
-There is no official textbook. We will mix various resources that best explain the core concepts in human-computer interaction.
-
-This doesn't mean that there aren't great books. Here's a short selection of books we recommend:
-
-* Don Norman, [The Design of Everyday Things](https://www.yes24.com/24/goods/8448278?scode=032&OzSrank=1), 1990.
-* Jef Raskin, [The Humane Interface](https://www.yes24.com/24/goods/247022?scode=032&OzSrank=1), ACM Press, 2000.
-* Steve Krug, [Don't Make Me Think](https://www.yes24.com/24/goods/1550565?scode=032&OzSrank=2), New Riders Publishing, 2005.
-* Edward Tufte, [The Visual Display of Quantitative Information](https://www.yes24.com/24/Goods/1052749?Acode=101), Graphics Press, 1983.
 
 <!-- TOC --><a name="faq"></a>
 ## FAQ
