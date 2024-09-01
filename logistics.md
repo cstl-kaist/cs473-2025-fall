@@ -59,7 +59,7 @@ While we won't be tracking detailed levels of contribution of each member, we wi
 <!-- TOC --><a name="faq"></a>
 ## FAQ
 **Will there be an attendance check?**  
-Each class will start with a quick nanoquiz, which asks simple questions about what you read or watched before coming to class. These questions will be extremely simple and easy -- more like an attendance check rather than problem solving.
+Yes, there will be an attendance check in each class after the first week. Students who are not present by 10:40AM will be counted as absent for that class. Students may miss up to three lectures per semester without negative consequences for their grade.
 
 **I'm not a CS student. Can I take the course?**  
 Yes, as long as you meet the prerequisites.
