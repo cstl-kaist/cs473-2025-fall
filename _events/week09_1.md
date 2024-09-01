@@ -5,8 +5,10 @@ week: 9
 class:
  - title: 'Evaluation'
 material:
- - url: 
-   title: 'Reading'
+ - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
+   title: 'Reading (Chapter 2 -- Grounded Theory)'
+ - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
+   title: 'Reading (Chapter 5 -- Online Communities)'
 assignment: 
 hide_time: true
 hide_from_announcements: true
