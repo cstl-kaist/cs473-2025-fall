@@ -22,7 +22,7 @@ Though there is no official prerequisite, students are strongly encouraged to ha
 Here's a breakdown of how the grading will work:
 * Team Project: 40%
 * Final Exam: 30%
-* Reading Response/Quizzes: 10%
+* Reading Response: 10%
 * Class & Studio participation: 10%
 * Topic Presentation: 10%
 

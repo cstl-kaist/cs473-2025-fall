@@ -8,6 +8,8 @@ class:
 material:
  - url: https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf
    title: 'Reading (Chapters 6-7)'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
+   title: 'Reading (pp. 21-39)'
 assignment: 
  - url:
    title: 'Project 0: Team Formation'
