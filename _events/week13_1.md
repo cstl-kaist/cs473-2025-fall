@@ -9,6 +9,8 @@ material:
    title: 'Reading'
  - url: https://archive.org/details/Custodians_of_the_Internet_by_Terleton_Gillespie/page/n81/mode/2up
    title: 'Reading (Chapter 3)'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
+   title: 'Reading (pp. 1-17)
 assignment: 
 hide_time: true
 hide_from_announcements: true
