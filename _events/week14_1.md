@@ -5,7 +5,9 @@ week: 14
 class:
  - title: 'Human-AI interaction'
 material:
- - url: 
+ - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
+   title: 'Reading'
+ - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
    title: 'Reading'
 assignment:
 hide_time: true
