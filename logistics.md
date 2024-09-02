@@ -57,7 +57,7 @@ While we won't be tracking detailed levels of contribution of each member, we wi
 
 <!-- TOC --><a name="reading-responses"></a>
 ## Reading Responses
-For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire.
+For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire by *11:59PM the night before the class.*
 
 One of these questions must be a **short answer** question, and the other must be a **multiple choice** question with four options (A, B, C, D).
 
@@ -75,9 +75,9 @@ The following are examples of questions you might submit:
     </li>
 </ol>
 
-Please make sure that the questions you submit are clearly answerable! I will choose a subset of the final exam questions from these submitted questions, and you will receive bonus points if your questions are selected.
+Please make sure that the questions you submit are clearly answerable! A subset of the final exam questions will be chosen from these submitted questions, and you will receive bonus points if your questions are selected.
 
-The questions will be graded based on their relevance to the material, their completeness and clearness, and their answerability. Please also note that you will not get credit if your question (or an extremely similar question) has already been posted to the Campuswire by another student. Similarity will be up to the course staff to judge, so please make sure that the questions are clearly distinct.
+The questions will be graded based on their generalizability beyond the material, their completeness and clearness, and their answerability. A good question should focus on a useful principle that isn't only relevant to the specific reading. *Please also note that you will not get credit if your question (or an extremely similar question) has already been posted to the Campuswire by another student.* Similarity will be up to the course staff to judge, so please make sure that the questions are clearly distinct.
 
 <!-- TOC --><a name="faq"></a>
 ## FAQ
