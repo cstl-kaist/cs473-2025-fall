@@ -18,7 +18,7 @@ permalink: /topicpresentation/
 ## What do I do?
 Once a semester, you'll lead a class section for **25 minutes**. This means you'll present in front of the class, show examples, run activities, ask and answer questions, and facilitate class discussion. Here are the three steps that are involved:
 * Share your lesson plan with the course staff and get feedback. This is a written document (maximum one page) that needs to be sent to the course staff.
-* Read the pre-class material thoroughly (not just the required ones but all readings for that day). Also, read peer students' critiques for the assigned reading and summarize them.
+* Read the pre-class material thoroughly (all readings for that topic).
 * Submit your presentation material and activity document after your presentation.
 
 Your presentation should include the following:
@@ -33,11 +33,11 @@ One-way lectures are boring, and they are not the best way to learn. You learn b
 
 <!-- TOC --><a name="submit"></a>
 ## How do I submit?
-Here's a timeline for a Mon (Wed) presentation:
-* Thu (Mon) night: Email your **lesson plan** in PDF by 11:59pm two days before class, which would be Thursday (if presenting on Mon) or Monday (if presenting on Wed). This is to give you enough time to iterate on your plan and get feedback or help from the course staff. Please cc all your team members in the email.
-* Fri (Tue) noon: Prof sends you **feedback** on the lesson plan.
-* Fri (Tue) night: Send your **(tentative) slides** by 11:59pm the night before your presentation. All examples and activity design should be finalized. Minor tweaks can be made until the class. This is to ensure that Prof can better sync his part of the class with the presentation.
-* Right before class: Join the Zoom early (at least 10 mins) to check your audio, video, and screen setup.
+Here's a timeline for a Tue (Thu) presentation:
+* Fri (Tue) night: Email your **lesson plan** in PDF by 11:59pm two days before class, which would be Friday (if presenting on Tue) or Tuesday (if presenting on Thu). This is to give you enough time to iterate on your plan and get feedback or help from the course staff. Please cc all your team members in the email.
+* Mon (Wed) noon: Prof sends you **feedback** on the lesson plan.
+* Mon (Wed) night: Send your **(tentative) slides** by 11:59pm the night before your presentation. All examples and activity design should be finalized. Minor tweaks can be made until the class. This is to ensure that Prof can better sync his part of the class with the presentation.
+* Right before class: Come to class early (at least 10 mins) to check your audio, video, and screen setup.
 * Mon (Wed) after class: Email your **final presentation slides and activity document**, both in PDF, by 11:59pm the day of your presentation. Your slides will be posted on the course website.
 
 <!-- TOC --><a name="lesson"></a>
@@ -49,7 +49,7 @@ This is a high-level outline of your class. Please send it as PDF to the staff e
 
 <!-- TOC --><a name="after"></a>
 ## What should I submit after the presentation?
-After your presentation, please send the following to the staff email (cs473@kixlab.org): (1) a PDF file of your final slides used in class and (2) an activity document that includes the following:
+After your presentation, please send the following to the staff email (cs473kaist@googlegroups.com): (1) a PDF file of your final slides used in class and (2) an activity document that includes the following:
 * Learning objective of the activity
 * Detailed instructions for running the activity, to the level someone outside of your team can replicate
 * Instructions given to students during class

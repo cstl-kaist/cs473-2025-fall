@@ -28,14 +28,12 @@ Here's a breakdown of how the grading will work:
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
-**Late policy**: For individual assignments, you'll lose 10% for each late day. For each milestone deadline in the design project, all members of your team will lose 10% for each late day. Submissions for both the individual assignments and design project milestones will be accepted until three days after the deadline. After then you'll get 0 on that assignment. Please note that late submissions for midterm and final presentations are not allowed.
+**Late policy**: For individual assignments, you'll lose 10% for each late day. For each milestone deadline in the design project, all members of your team will lose 10% for each late day. Submissions for both the individual assignments and design project milestones will be accepted until three days after the deadline. After then you'll get 0 on that assignment. Please note that late submissions for final presentations are not allowed and late reading response submissions will not be counted.
 
 <!-- TOC --><a name="academic-integrity-and-collaboration"></a>
 ## Academic Integrity and Collaboration
 
 You may discuss assignments with others, but you should always give credit and be intellectually honest.
-
-For all individual assignments, you should write the solution entirely on your own. Sharing or seeing other students' solutions (written material or code) is not allowed. If you discussed the assignment with anyone, you should explicitly list them in your report.
 
 For programming work, you may use third-party libraries, but you should give proper attribution.
 
@@ -71,10 +69,10 @@ Unfortunately, no. Please check out grad-level HCI courses.
 Please talk to Prof. Seering in person during the first week of class.
 
 **What's the course load like?**  
-This will be a course that will have reading / video materials for every class, weekly milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
+This will be a course that will have reading / video materials for every class, regular milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
 
 **The course seems to require active participation during class, but my English isn't quite good. Maybe I shouldn't take it?**  
-We recognize that a vast majority of students won't be comfortable with speakinng English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.
+We recognize that many students won't be comfortable with speaking English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.
 
 **How do I learn more about HCI research happening on campus?**  
 We have a wonderful on-campus community of HCI researchers called [HCI@KAIST](https://hci.kaist.ac.kr/). It features 20+ labs across multiple departments. Please check out the website for more information.
