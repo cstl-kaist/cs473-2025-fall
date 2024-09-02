@@ -64,7 +64,6 @@ One of these questions must be a **short answer** question, and the other must b
 The following are examples of questions you might submit:
 
 <ol>
-    <li>Provide one example from a social computing platform of your choice for how anonymity can lead to users engaging in pro-social behavior, and explain how the behavior is a result of anonymity.</li>
     <li>What are three "growing pains" a social network platform may experience during massive user growth? "</li>
     <li>What is correct about the “artisanal approach” to content moderation practices?
         <ol type="A">
@@ -75,6 +74,10 @@ The following are examples of questions you might submit:
         </ol>
     </li>
 </ol>
+
+Please make sure that the questions you submit are clearly answerable! I will choose a subset of the final exam questions from these submitted questions, and you will receive bonus points if your questions are selected.
+
+The questions will be graded based on their relevance to the material, their completeness and clearness, and their answerability. Please also note that you will not get credit if your question (or an extremely similar question) has already been posted to the Campuswire by another student. Similarity will be up to the course staff to judge, so please make sure that the questions are clearly distinct.
 
 <!-- TOC --><a name="faq"></a>
 ## FAQ
