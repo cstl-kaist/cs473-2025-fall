@@ -9,6 +9,7 @@ permalink: /logistics/
 - [Grading](#grading)
 - [Academic Integrity and Collaboration](#academic-integrity-and-collaboration)
 - [Design Project](#design-project)
+- [Reading Responses](#reading-responses)
 - [FAQ](#faq)
 
 <!-- TOC end -->
@@ -53,6 +54,27 @@ To some extent, yes. You'll be doing fewer and fewer things alone in your career
 
 **Some members of my team are not contributing.**  
 While we won't be tracking detailed levels of contribution of each member, we will certainly penalize cases where some members made no or signficantly less contributions than the other teammates. See "Academic Integrity and Collaboration" for details.
+
+<!-- TOC --><a name="reading-responses"></a>
+## Reading Responses
+For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire.
+
+One of these questions must be a **short answer** question, and the other must be a **multiple choice** question with four options (A, B, C, D).
+
+The following are examples of questions you might submit:
+
+<ol>
+    <li>Provide one example from a social computing platform of your choice for how anonymity can lead to users engaging in pro-social behavior, and explain how the behavior is a result of anonymity.</li>
+    <li>What are three "growing pains" a social network platform may experience during massive user growth? "</li>
+    <li>What is correct about the “artisanal approach” to content moderation practices?
+        <ol type="A">
+            <li>It uses large groups of volunteer users to make policy decisions</li>
+            <li>It frequently uses automation and algorithmic detection technologies</li>
+            <li>It develops rules in a more formalized, static, and inflexible manner</li>
+            <li>Content moderation is done primarily in-house on a case-by-case basis</li>
+        </ol>
+    </li>
+</ol>
 
 <!-- TOC --><a name="faq"></a>
 ## FAQ
