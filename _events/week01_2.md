@@ -12,6 +12,8 @@ material:
    title: 'Reading'
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Resnick10-Intro-current.pdf
    title: 'Reading'
+ - url: 
+   title: '(No Reading Response Due)'
 assignment:
  - url: https://docs.google.com/forms/d/e/1FAIpQLSdQNG14Gzz5utB9j2o4PQh1g8t345cSg-LHIXaAXFHbQUPU0A/viewform?usp=sf_link
    title: Course sign-up  
