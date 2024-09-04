@@ -11,7 +11,7 @@ material:
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
    title: 'Reading (pp. 21-39)'
 assignment: 
- - url: ./_projects/02_DP0.md
+ - url: ../_projects/02_DP0.md
    title: 'Project 0: Team Formation'
 hide_time: true
 hide_from_announcements: true
