@@ -3,7 +3,7 @@ type: class
 date: 2024-09-05T10:30:00+9:00
 week: 1
 class:
- - url: 
+ - url: /lectures/02-Public-slides.pdf
    title: 'Social Computing Overview'
 material:
  - url: https://www.tandfonline.com/doi/pdf/10.1207/S15327051HCI1523_5
