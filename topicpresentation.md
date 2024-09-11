@@ -62,7 +62,7 @@ Your presentation will be graded by the course staff. Here's the grade break-dow
 * **Lesson plan (10%)**: Submitted on time? How organized is the class plan? If everything goes as planned, is it going to be an engaging session?
 * **Real-life Examples (20%)**: Are the examples accurately and effectively representing the class topic? Are the examples timely, interesting, creative, thought-provoking, and unique?
 * **Activity (40%)**: Did you design an engaging activity that reflects the topic of class? Did students actively participate in the discussion? Were your instructions clear? Is time well-managed? Did the post-activity discussion point to the main lessons?
-* **Presentation (30%)**: How well did the overall presentation go? This includes the organization, your delivery both verbally and visually, level of preparation, quality of material, fluidity of discussion, and peer students' reaction.
+* **Presentation (30%)**: How well did the overall presentation go? This includes the organization, your delivery both verbally and visually, level of preparation, quality of material, fluidity of discussion, time management, and peer students' reaction.
 
 ## Extra Credit
 First volunteers are often at a disadvantage. Presenters in the first two sessions will get extra credit: 10% for the first session presenters and 5% for the second session presenters.
