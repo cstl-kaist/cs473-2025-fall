@@ -42,7 +42,7 @@ Here's a timeline for a Tue (Thu) presentation:
 
 <!-- TOC --><a name="lesson"></a>
 ## What should a lesson plan look like?
-This is a high-level outline of your class. Please send it as PDF to the staff email cs473@kixlab.org. A bullet-pointed list of things to cover is fine. Keep it to maximum one page. Make sure to include an estimate of how long you plan to spend for each component. The following should be included:
+This is a high-level outline of your class. Please send it as PDF to the staff email cs473kaist@googlegroups.com. A bullet-pointed list of things to cover is fine. Keep it to maximum one page. Make sure to include an estimate of how long you plan to spend for each component. The following should be included:
 * **Learning objective**: Maximum 2-3 short statements of what students will learn or achieve by the end of your class.
 * **Real-life Examples**: List examples you are planning to present to class. Add a short description about what they are and what connection you are trying to make with the course topic.
 * **Activity**: Design a short activity for students to practice and apply the concepts related to the topic of the class. Asking students to work in small groups (2-4) is a good idea. Be creative and innovative. Actively use physical materials (e.g., paper or post-it) as well as digital tools (e.g., Google forms for collecting responses, Google docs for collaborative document editing). A good activity asks students to generate a concrete artifact as a result. In the lesson plan, include an initial plan of your activity.
