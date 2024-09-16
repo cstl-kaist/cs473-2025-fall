@@ -8,7 +8,7 @@ material:
  - url: 
    title: 'None'
 assignment:
- - url: 
+ - url: /projects/03_DP1
    title: 'Project 1: Ideation'
 hide_time: true
 hide_from_announcements: true
