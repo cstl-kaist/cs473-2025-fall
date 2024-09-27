@@ -3,6 +3,7 @@ type: class
 date: 2024-09-24T10:30:00+9:00
 week: 4
 class:
+ - url: /lectures/B-Interactions-student-activity.pdf
  - title: 'Interactions (part 2)'
 material:
  - url: https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf
