@@ -85,12 +85,12 @@ Colored solutions are the ones that have finally been selected.
 
 ### Provide a way to leave **timestamped notes** or **video comments** during rehearsals, allowing **instant feedback on specific moments** in the choreography.
 
-![image.png](%images/image.png)
+![image.png](images/image.png)
 
 ### Create templates to help performers give clear, useful feedback on timing, expression, and technique, making sure the feedback is short and effective.
 
-![image.png](%images/image%201.png)
+![image.png](images/image1.png)
 
 ### Create a digital tool that saves each change in the choreography, so dancers can track and go back to earlier versions if needed.
 
-![image.png](%images/image%202.png)
+![image.png](images/image2.png)
