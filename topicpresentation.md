@@ -22,7 +22,7 @@ Once a semester, you'll lead a class section for **25 minutes**. This means you'
 * Submit your presentation material and activity document after your presentation.
 
 Your presentation should include the following:
-* Present a few real-life examples that represent the topics covered in the pre-class material. Explain what the examples are about, why they matter, and what the implications are. Feel free to promote student discussion regarding the examples.
+* Present a few real-life examples that represent the topics covered in the pre-class material and connect them to social computing. Explain what the examples are about, why they matter, and what the implications are. Feel free to promote student discussion regarding the examples.
 * Design and run an in-class activity, which should ask students to analyze, design, make, or present something.
 
 Key in your activity design is to include **interactive components**, such as a short design exercise, a simulated crowdsourcing task, a poll, group brainstorming, etc. Please mimimize the amount of one-way lecturing to students. Surprisingly, designing for interactivity requires more time, thought, and effort than preparing a one-way lecture. So please plan ahead and talk to the course staff for feedback and help.
