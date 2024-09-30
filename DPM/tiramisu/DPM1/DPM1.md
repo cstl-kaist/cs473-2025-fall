@@ -87,14 +87,15 @@ For each HMW question, we propose 5 solution ideas:
 
 **Virtual Bulletin Board**  
 This feature allows users to post and browse listings for bulk purchases they are interested in sharing. It provides a central space where users with similar purchasing needs can easily find and connect with each other, facilitating group buying.
-![images/img1.png]
+![image1](images/img1.png)
 
 **In-App Messaging System**  
 This feature enables users to communicate directly within the platform without sharing personal contact information. It simplifies coordination between co-buyers, allowing them to discuss details like product quantities, logistics, and preferences while protecting their privacy.
-![images/img2.png]
+![image2](images/img2.png)
+
 **Upfront Payment System**  
 This feature ensures that all co-buyers pay their share of the purchase before the group order is finalized. Payments are securely held by the app until the items are delivered, reducing the risk of delayed payments or disputes and ensuring commitment from all participants.
-![images/img3.png]
+![image3](images/img3.png)
 
 
 ---
