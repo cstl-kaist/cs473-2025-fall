@@ -16,11 +16,11 @@ Learners following video tutorials for physical tasks struggle with *excessive m
 
 Tutorials for physical tasks have been researched broadly in terms of sense-making for skill acquisition and task completion [(Endow, 2021)](https://dl.acm.org/doi/pdf/10.1145/3461778.3462066). Physical tasks including cooking, handcrafting, playing instruments, etc are different from other types of learning such as conceptual learning. Tacit skills required for tasks are difficult to verbalize or visualize and various creative approaches may exist on same task (Sennett, Richard. (2008). The Craftsman). Because of these characteristics, learners following video tutorials for physicals tasks often encounter some pain points inducing excessive manual effort and cognitive load as addressed in [Figure1]. Since it is impossible to cover all spectrum of users, we observed that people easily get lost while following the video tutorials and ask for help to others ([Figure2]). To solve the problem, many other tutorial mediums are continuously evolving, but still they are domain-specific and unable to offer the full experience of creative practice [(Endow, 2021)](https://dl.acm.org/doi/pdf/10.1145/3461778.3462066). As a result, we think the problems that users suffer while following existing video tutorials is an important and valuable topic to look into.
 
-![[Figure 1] Problem scenario from internal investigation](images/image.png)
+![Figure 1](images/image.png)
 
 [Figure 1] Problem scenario from internal investigation
 
-![[Figure 2] Example comments asking for help or providing tips from a knitting tutorial <**How To Knit a Chunky Sweater | Beginner Friendly Step by Step DIY Tutorial**> [https://www.youtube.com/watch?v=GaAHOpJZ5zs](https://www.youtube.com/watch?v=GaAHOpJZ5zs)>](images/image1.png)
+![Figure 2](images/image1.png)
 
 [Figure 2] Example comments asking for help or providing tips from a knitting tutorial <**How To Knit a Chunky Sweater | Beginner Friendly Step by Step DIY Tutorial,** [https://www.youtube.com/watch?v=GaAHOpJZ5zs](https://www.youtube.com/watch?v=GaAHOpJZ5zs)>
 
