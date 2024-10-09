@@ -8,7 +8,7 @@ material:
  - url: 
    title: 'None'
 assignment:
- - url: 
+ - url: /projects/05_DPM3
    title: 'Project 3: Low-fi Prototype'
 hide_time: true
 hide_from_announcements: true
