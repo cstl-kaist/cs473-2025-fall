@@ -20,23 +20,23 @@ Our website includes 3 major features:
 1. **Product Grid**
     - Users can post, browse, and join shared buying opportunities. The product grid is designed to be visually appealing and easy to navigate, featuring filters such as price, category, popularity, or location.   
     - **Value to Users**: Users can easily browse relevant group-buying deals tailored to their preferences, turning shopping into a more enjoyable and collaborative experience.
-![[./images/sol1-sketch.jpg]]
+![Sol1](./images/sol1-sketch.jpg)
     - Storyboard
-![[./images/stb1.png]]
+![Stb1](./images/stb1.png)
 
 2. **In-app Messaging System**
     - This system allows users to communicate securely within the app without sharing personal contact information. Users can participate in individual or group chats and share details such as images or links to deals.
     - **Value to Users**: Provides seamless communication between organizers and co-buyers, helping to clarify deal specifics and coordinate details efficiently.
-![[./images/sol2-sketch.jpg]]
+![Sol2](./images/sol2-sketch.jpg)
     - Storyboard
-![[./images/stb2.png]]
+![Stb2](./images/stb2.png)
 
 3. **Upfront Payment System**
     - The app ensures secure transactions by holding the co-buyers’ payments until the group purchase is completed. Once the items are delivered and confirmed, the payments are released to the organizer.
     - **Value to Users**: Organizers benefit from reduced stress by avoiding last-minute cancellations or chasing payments. Co-buyers can feel secure knowing their payment is held safely until they receive the items.
-![[images/sol3_sketch.jpg]]
+![Sol3](images/sol3_sketch.jpg)
     - Storyboard
-![[./images/stb3.png]]
+![Stb3](./images/stb3.png)
 
 ---
 
@@ -75,7 +75,7 @@ The user and the organizer agree on a deal. Next, the organizer makes the purcha
 
 Here is a comparison of Split-n'-share against three main alternatives: ARA, Facebook Marketplace, and messaging platforms such as Telegram, WhatsApp and Facebook Messenger. The table below highlights the key features that differentiate these platforms, focusing on group-buying, product display, filtering, network trust, payment support, and communication privacy.
 
-![[images/competitive-analysis-chart.png]]
+![CompAnalysis](images/competitive-analysis-chart.png)
 
 #### Ara
 
