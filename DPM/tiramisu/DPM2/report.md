@@ -93,7 +93,7 @@ Messaging platforms allow for private communication but lack any structure or fe
 
 ### Timeline and Responsibilities
 
-![[images/gantt.png]]
+![Gantt](images/gantt.png)
 
 For the low-fidelity prototype, Mai will be responsible for researching and brainstorming UI feature designs. She will sketch the wireframe on paper, which will serve as a foundation for the team to build the Figma prototype. The project will be divided into four key tasks: Mai will handle the first task about the product grid; Son will manage the posting feature and direct messaging; and Trang will be responsible for the payment functionality. Once the low-fidelity prototype is complete, we will recruit test users and conduct an initial round of user testing. Based on the feedback, we will iterate to address any usability or efficiency issues before moving on to coding.
 
