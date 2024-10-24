@@ -28,8 +28,8 @@ To find a specific item the user can either search by entering the item name or 
 - Scroll the item post to read the description
 
 #### Task 1 Screenshots:
-![Filter Section](images/Task1.1.png)
-![Donated Item post](images/Task1.2.png)
+![Filter Section](images/Task1-1.png)
+![Donated Item post](images/Task1-2.png)
 
 ### Task 2 Design Choices:
 We keep the button for adding quests or making donation posts as floating buttons on the right-hand side rather than in-menu buttons on the navigation bar. This helps reduce clutter on the navigation bar, especially when the add button separates into buttons for adding donation items and sharing requests. Furthermore, its prominent position makes it easily viewable and quickly accessible to the user. The create request page uses a form format that is intuitive to users. Most of the elements including category, date, and time are provided through lists or other visual elements like a pop-up calendar or scrollable time selection to reduce errors through keyboard input and speed up the process of input. Additionally, we also provide placeholder texts for all input elements so users can receive instructions on what to input or what format of answer we are expecting.
@@ -48,10 +48,10 @@ We keep the button for adding quests or making donation posts as floating button
 - The user can now view the updated post on the sharing quest list
 
 #### Task 2 Screenshots:
-![Floating buttons to add posts or quests](images/Task2.1.png)
-![New sharing quest page](images/Task2.2.png)
-![Calender to input date](images/Task2.3.png)
-![List to add time](images/Task2.4.png)
+![Floating buttons to add posts or quests](images/Task2-1.png)
+![New sharing quest page](images/Task2-2.png)
+![Calender to input date](images/Task2-3.png)
+![List to add time](images/Task2-4.png)
 
 ### Task 3 Design choices: 
 The “Chat” button is positioned on the item page, requiring users to communicate before confirming, which allows them to arrange pick-up details, ask questions, and avoid mismatches with requested items.
@@ -76,6 +76,6 @@ A feature that has not been implemented is the notification system. It is planne
 - Press the “Go back” arrow on the top bar to return to the chat history.
 
 #### Task 3 screenshots:
-![Item page with description and “Chat” button ](images/Task3.1.jpg)
-![Chat with “Confirm” button](images/Task3.2.jpg)
-![Chat with “Returned” button and rating pop-up](images/Task3.3.jpg)
+![Item page with description and “Chat” button ](images/Task3-1.jpg)
+![Chat with “Confirm” button](images/Task3-2.jpg)
+![Chat with “Returned” button and rating pop-up](images/Task3-3.jpg)
