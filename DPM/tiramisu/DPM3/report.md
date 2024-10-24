@@ -58,27 +58,27 @@ We chose to omit the user authentication and profile creation process at this st
 
 In this part, we will include the representative screenshots of our 3 main tasks with 1 additional screenshot of the side task of posting new deals to the website.
 
-![[./images/ss1.png]]
+![./images/ss1.png](images/ss1.png)
 
 *Main page with the product grid feed, filters, search bar, chat button.*
 
-![[./images/ss2.png]]
+![./images/ss2.png](images/ss2.png)
 
 *Product’s detailed information page.*
 
-![[./images/ss4.png]]
+![./images/ss4.png](images/ss4.png)
 
 *Writing a review for co-buyers on their public profile.*
 
-![[./images/ss5.png]]
+![./images/ss5.png](images/ss5.png)
 
 *Floating chat box displaying conversation history with previously contacted users.*
 
-![[./images/ss6.png]]
+![./images/ss6.png](images/ss6.png)
 
 *The reviews on an user's profile.*
 
-![[./images/ss3.png]]
+![./images/ss3.png](images/ss3.png)
 
 *Create a deal posting by entering product details and submitting it to the product grid.*
 
