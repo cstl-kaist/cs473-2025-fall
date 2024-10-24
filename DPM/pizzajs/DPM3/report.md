@@ -28,8 +28,8 @@ To find a specific item the user can either search by entering the item name or 
 - Scroll the item post to read the description
 
 #### Task 1 Screenshots:
-![Filter Section](images/Task1.1.png)
-![Donated Item post](images/Task1.2.png)
+![Filter Section](images/Task11.png)
+![Donated Item post](images/Task12.png)
 
 ### Task 2 Design Choices:
 We keep the button for adding quests or making donation posts as floating buttons on the right-hand side rather than in-menu buttons on the navigation bar. This helps reduce clutter on the navigation bar, especially when the add button separates into buttons for adding donation items and sharing requests. Furthermore, its prominent position makes it easily viewable and quickly accessible to the user. The create request page uses a form format that is intuitive to users. Most of the elements including category, date, and time are provided through lists or other visual elements like a pop-up calendar or scrollable time selection to reduce errors through keyboard input and speed up the process of input. Additionally, we also provide placeholder texts for all input elements so users can receive instructions on what to input or what format of answer we are expecting.
