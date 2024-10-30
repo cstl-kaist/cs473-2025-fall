@@ -29,7 +29,7 @@ Here's a breakdown of how the grading will work:
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
-**Late policy**: For individual assignments, you'll lose 10% for each late day. For each milestone deadline in the design project, all members of your team will lose 10% for each late day. Submissions for both the individual assignments and design project milestones will be accepted until three days after the deadline. After then you'll get 0 on that assignment. Please note that late submissions for final presentations are not allowed and late reading response submissions will not be counted.
+**Late policy**: For each milestone deadline in the design project, all members of your team will lose 10% for each late day. Submissions for design project milestones will be accepted until three days after the deadline. After then you'll get 0 on that assignment. Please note that late submissions for final presentations are not allowed and late reading response submissions will not be counted.
 
 <!-- TOC --><a name="academic-integrity-and-collaboration"></a>
 ## Academic Integrity and Collaboration
@@ -57,7 +57,7 @@ While we won't be tracking detailed levels of contribution of each member, we wi
 
 <!-- TOC --><a name="reading-responses"></a>
 ## Reading Responses
-For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire by *11:59PM the night before the class.*
+For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire by *11:59PM the night before the class.* Late reading responses won't be counted.
 
 One of these questions must be a **short answer** question, and the other must be a **multiple choice** question with four options (A, B, C, D).
 
