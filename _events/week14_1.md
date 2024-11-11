@@ -3,7 +3,7 @@ type: class
 date: 2024-12-03T10:30:00+9:00
 week: 14
 class:
- - title: 'Human-AI interaction'
+ - title: 'Governance (part 2)'
 material:
  - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
    title: 'Reading'

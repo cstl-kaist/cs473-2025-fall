@@ -3,7 +3,7 @@ type: class
 date: 2024-12-05T10:30:00+9:00
 week: 14
 class:
- - title: 'Human-AI interaction (part 2)'
+ - title: 'Human-AI interaction'
 material:
  - url: https://dl.acm.org/doi/pdf/10.1145/3641002
    title: 'Reading'
