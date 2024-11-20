@@ -7,7 +7,7 @@ class:
 material:
  - title: 'None'
 assignment:
- - url: 
+ - url: /projects/04_DPM4
    title: 'Project 4: High-fi Prototype'
 hide_time: true
 hide_from_announcements: true
