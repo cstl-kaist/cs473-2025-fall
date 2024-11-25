@@ -7,8 +7,8 @@ class:
 material:
  - title: 'None'
 assignment:
- - url: 
-   title: 'Project 5: Presentation and Write-up' 
+ - url: /projects/05_DPM5
+   title: 'Project 5: Showcase and Final Report' 
 hide_time: true
 hide_from_announcements: true
 ---
