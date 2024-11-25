@@ -21,8 +21,8 @@ The **Browse Products** page is displayed immediately upon login and served as y
 - **Search for Products:** Use the search bar to quickly find items of interest.
 - **Filter by Category:** Choose specific categories to narrow your options and find exactly what you need. Right now we have the filter for Pick-up location (specifically KAIST dormitories) and categories of the products.
     
-![[./images/ui-1.png]]
-![[./images/ui-2.png]]
+![name](/images/ui-1.png)
+![name](/images/ui-2.png)
 
 #### Creating a Joint-Purchase Posting
 
@@ -34,7 +34,7 @@ The posting will include these fields to be filled:
 - **Pickup Location & Price:** Dropdown list with all KAIST dormitories listed and also the option “others” for flexibility. The price field allows user to see the total cost which will be divided among the participants.
 - **Product Description & Joint-Purchase Information:** Provide important details about the product and any special instructions or requirements.
 
-![[./images/ui-3.png]]
+![name](images/ui-3.png)
 
 #### Product Detail Page
 
@@ -44,7 +44,7 @@ The product page will display all the information as filled in the **Create Post
 
 There will be the button **Open Group Chat**. The user can create a group chat and add all the co-buyers into the chat for spontaneous and seamless communication. Each group chat will correspond to one product and can only add the co-buyers in the co-buyers list of that specific product. Only the host can add/delete members from the group chat. 
 
-![[./images/ui-4.png]]
+![name](/images/ui-4.png)
 
 - If the host of the deal is another user:
 
@@ -53,8 +53,8 @@ There will be two buttons:
 - **Chat with Host** button where users can click and it will spontaneously create a new chat (or opening an existing chat if the user has talked with the host before) so the user can discuss more detail with the host before deciding to join the deal.
 - **Request to Join** button where users can click to request to join the deal. The request will be sent to the host and the host will decide to reject/accept the user to the deal or not.
 
-![[./images/ui-5.png]]
-![[./images/ui-6.png]]
+![name](/images/ui-5.png)
+![name](/images/ui-6.png)
 
 #### User Page
 
@@ -64,8 +64,8 @@ When checking out a deal, the user can click on the host’s page to check their
 
 Once the user has finished a deal with the host, the user can then post a review for the host, describing their experience with the host by both text and the star review. (Reviews can only be posted by the user that has conducted a shared deal with the host). 
 
-![[./images/ui-7.png]]
-![[./images/ui-8.png]]
+![name](/images/ui-7.png)
+![name](/images/ui-8.png)
 
 ---
 
