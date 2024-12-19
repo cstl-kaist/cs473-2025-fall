@@ -16,8 +16,8 @@ The Browse Products Page is the first screen users see after logging in. This pa
 - Search for Products using the search bar for quick navigation.
 - Filter by Categories to narrow results based on product type or pick-up location (e.g., KAIST dormitories).
 
-![[./images/UI-1.png]]
-![[./images/UI-2.png]]
+![name](/images/UI-1.png)
+![name](/images/UI-2.png)
 
 2. Creating a Joint-Purchase Posting
 
@@ -28,7 +28,7 @@ The Create Posting feature enables users to initiate group-buying opportunities.
 - Pickup Location & Price: Choose a pick-up location from a dropdown list and share the total cost, which will be divided among participants.
 - Product Description: Include essential details about the product and any special instructions.
 
-![[./images/UI-3.png]]
+![name](/images/UI-3.png)
 
 #### Product Detail Page
 
@@ -43,9 +43,9 @@ The Create Posting feature enables users to initiate group-buying opportunities.
   - Click Request to Join to send a participation request to the host and wait for their approval. 
   - Once a request is sent, the Request to Join button changes to Cancel Request, allowing co-buyers to withdraw their request if they decide not to join.
 
-![[./images/UI-4.png]]
-![[./images/UI-5.png]]
-![[./images/UI-6.png]]
+![name](/images/UI-4.png)
+![name](/images/UI-5.png)
+![name](/images/UI-6.png)
 
 4. Posting Management Page
 
@@ -59,7 +59,7 @@ The My Postings Page is where the host can manage their postings and oversee gro
   - Open Group Chat: Start a group chat with approved co-buyers to facilitate communication for the deal.
 
 
-![[./images/UI-7.png]]
+![name](/images/UI-7.png)
 
 #### User Page
 
@@ -72,8 +72,8 @@ The User Page showcases a user’s profile and activity, including:
 - Post History: Explore the user’s current and past postings for credibility.
 
 
-![[./images/UI-8.png]]
-![[./images/UI-9.png]]
+![name](/images/UI-8.png)
+![name](/images/UI-9.png)
 
 #### Settings Page
 
@@ -81,7 +81,7 @@ The Settings Page allows users to update their personal information, such as a b
 
 
 
-![[./images/UI-10.png]]
+![name](/images/UI-10.png)
 
 
 ---
@@ -126,15 +126,15 @@ After the user testing procedure, the users were asked to fill in the user exper
 
 The results of the survey are as follows:
 
-![[./images/UT1.png]]
-![[./images/UT2.png]]
-![[./images/UT3.png]]
-![[./images/UT4.png]]
-![[./images/UT5.png]]
-![[./images/UT6.png]]
-![[./images/UT7.png]]
-![[./images/UT8.png]]
-![[./images/UT9.png]]
+![name](/images/UT1.png)
+![name](/images/UT2.png)
+![name](/images/UT3.png)
+![name](/images/UT4.png)
+![name](/images/UT5.png)
+![name](/images/UT6.png)
+![name](/images/UT7.png)
+![name](/images/UT8.png)
+![name](/images/UT9.png)
 
 To summarize, user feedback for Split-n'-Share was overwhelmingly positive, with 90% of users rating ease of navigation, overall satisfaction, visual design, and usability as 4 or 5. The Pick-up Location Filter and Request to Join features were most valued, while the Request-Approve Group Chat System was deemed intuitive by 90% of respondents. The Review System significantly influenced trust, with 90% rating its impact as high.
 
