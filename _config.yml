@@ -1,7 +1,7 @@
 # Site settings
 course_name: CS473 Social Computing
 course_description: "Social computing systems connect all sorts of users within neighborhoods and across the globe, from friends, co-workers, fans, information-seekers, potential dating partners, and more. This course will cover the principles of designing social computing systems that are effective and aligned with user needs through a combination of readings, a course project, and a final exam."
-course_semester: "2024 Fall"
+course_semester: "2025 Fall"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://social.cstlab.org" # the base hostname & protocol for your site
