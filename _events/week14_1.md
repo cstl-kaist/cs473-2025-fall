@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-12-03T10:30:00+9:00
+date: 2025-12-02T10:30:00+9:00
 week: 14
 class:
  - url: /lectures/21-Public-slides.pdf

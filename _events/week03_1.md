@@ -1,6 +1,6 @@
 ---
-type: noclass
-date: 2024-09-17T10:30:00+9:00
+type: class
+date: 2025-09-16T10:30:00+9:00
 week: 3
 class:
  - title: 'No class (Chuseok Holiday)'

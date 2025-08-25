@@ -1,6 +1,6 @@
 ---
 type: studio
-date: 2024-11-21T10:30:00+9:00
+date: 2025-11-20T10:30:00+9:00
 week: 12
 class:
  - title: '[Studio 4] High-fi Prototype'

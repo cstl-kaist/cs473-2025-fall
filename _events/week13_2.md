@@ -1,6 +1,6 @@
 ---
 type: noclass
-date: 2024-11-28T10:30:00+9:00
+date: 2025-11-27T10:30:00+9:00
 week: 13
 class:
  - title: 'No class (School Admission Interview Day)'

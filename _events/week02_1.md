@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-09-10T10:30:00+9:00
+date: 2025-09-9T10:30:00+9:00
 week: 2
 class:
  - url: 

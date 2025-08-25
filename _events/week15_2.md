@@ -1,6 +1,6 @@
 ---
 type: studio
-date: 2024-12-12T10:30:00+9:00
+date: 2025-12-11T10:30:00+9:00
 week: 15
 class:
  - title: 'Final Presentations'

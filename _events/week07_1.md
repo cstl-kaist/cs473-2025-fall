@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-10-15T10:30:00+9:00
+date: 2025-10-14T10:30:00+9:00
 week: 7
 class:
  - title: 'Collaboration (part 2)'

@@ -1,6 +1,6 @@
 ---
-type: noclass
-date: 2024-10-03T10:30:00+9:00
+type: class
+date: 2025-10-02T10:30:00+9:00
 week: 5
 class:
  - title: 'No class (National Foundation Day)'

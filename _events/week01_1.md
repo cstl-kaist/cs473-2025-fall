@@ -1,9 +1,9 @@
 ---
 type: class
-date: 2024-09-03T10:30:00+9:00
+date: 2025-09-02T10:30:00+9:00
 week: 1
 class:
- - url: /lectures/01-Public-slides.pdf
+ - url: 
    title: 'Introduction & Course Overview'
 material:
  - title: 'None'

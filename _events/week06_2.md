@@ -1,6 +1,6 @@
 ---
-type: class
-date: 2024-10-10T10:30:00+9:00
+type: noclass
+date: 2025-10-9T10:30:00+9:00
 week: 6
 class:
  - title: 'Collaboration'

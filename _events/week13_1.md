@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-11-26T10:30:00+9:00
+date: 2025-11-25T10:30:00+9:00
 week: 13
 class:
  - title: 'Governance'

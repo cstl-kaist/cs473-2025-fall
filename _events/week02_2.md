@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-09-12T10:30:00+9:00
+date: 2025-09-11T10:30:00+9:00
 week: 2
 class:
  - url: /lectures/A-Foundations-student-activity.pdf

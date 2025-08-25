@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-11-19T10:30:00+9:00
+date: 2025-11-18T10:30:00+9:00
 week: 12
 class:
  - title: 'Emergent Harms (part 2)'

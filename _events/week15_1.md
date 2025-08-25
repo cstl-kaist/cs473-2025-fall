@@ -1,6 +1,6 @@
 ---
 type: class
-date: 2024-12-10T10:30:00+9:00
+date: 2025-12-09T10:30:00+9:00
 week: 15
 class:
  - title: 'Class wrap-up'

@@ -1,6 +1,6 @@
 ---
-type: studio
-date: 2024-10-08T10:30:00+9:00
+type: noclass
+date: 2025-10-07T10:30:00+9:00
 week: 6
 class:
  - title: '[Studio 2] Pitch'
