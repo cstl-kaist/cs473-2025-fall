@@ -3,7 +3,7 @@ type: class
 date: 2025-09-11T10:30:00+9:00
 week: 2
 class:
- - url: /lectures/A-Foundations-student-activity.pdf
+ - url: 
    title: 'Foundations and Growth (part 2)'
 material:
  - url: https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf

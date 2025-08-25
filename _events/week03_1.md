@@ -3,7 +3,7 @@ type: class
 date: 2025-09-16T10:30:00+9:00
 week: 3
 class:
- - url: /lectures/05-Public-slides.pdf
+ - url: 
    title: 'Interactions'
 material:
  - url: https://monoskop.org/images/1/19/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life.pdf
