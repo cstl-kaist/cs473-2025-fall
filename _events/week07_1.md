@@ -3,15 +3,13 @@ type: class
 date: 2025-10-14T10:30:00+9:00
 week: 7
 class:
- - title: 'Collaboration (part 2)'
+ - title: 'Evaluation'
 material:
- - url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=723c7adbd7f02cf0ea794fd9df22b780f8779a3b
-   title: 'Reading'
- - url: https://core.ac.uk/download/pdf/83182631.pdf
-   title: 'Reading'
-assignment:
- - url: 
-   title:
+ - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
+   title: 'Reading (Chapter 2 -- Grounded Theory)'
+ - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
+   title: 'Reading (Chapter 5 -- Online Communities)'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---
