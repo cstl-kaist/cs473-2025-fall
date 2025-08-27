@@ -1,14 +1,16 @@
 ---
-type: studio
+type: class
 date: 2025-11-20T10:30:00+9:00
 week: 12
 class:
- - title: '[Studio 4] High-fi Prototype'
+ - url: 
+   title: 'Governance (part 2)'
 material:
- - title: 'None'
+ - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
+   title: 'Reading'
+ - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
+   title: 'Reading'
 assignment:
- - url: /projects/04_DPM4
-   title: 'Project 4: High-fi Prototype'
 hide_time: true
 hide_from_announcements: true
 ---

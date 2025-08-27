@@ -3,13 +3,15 @@ type: class
 date: 2025-11-18T10:30:00+9:00
 week: 12
 class:
- - title: 'Emergent Harms (part 2)'
+ - title: 'Governance'
 material:
- - url: https://joseph.seering.org/papers/Han_etal_2023_hate_raids_on_twitch.pdf
+ - url: https://joseph.seering.org/papers/Seering_etal_2019_Moderators.pdf
    title: 'Reading'
- - url: http://www.lindsayblackwell.net/wp-content/uploads/2019/09/Harassment-in-Social-Virtual-Reality-CSCW-2019.pdf
-   title: 'Reading'
-assignment:
+ - url: https://archive.org/details/Custodians_of_the_Internet_by_Terleton_Gillespie/page/n81/mode/2up
+   title: 'Reading (Chapter 3)'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
+   title: 'Reading (pp. 1-17)'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---
