@@ -6,10 +6,14 @@ class:
  - url: 
    title: 'Foundations and Growth'
 material:
- - url: https://andrewchen.com/wp-content/uploads/2022/01/ColdStartProb_9780062969743_AS0928_cc20_Final.pdf
-   title: 'Reading (Chapters 4-5)'
+ - url: https://www.tandfonline.com/doi/pdf/10.1207/S15327051HCI1523_5
+   title: 'Reading'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Resnick10-Intro-current.pdf
+   title: 'Reading'
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
    title: 'Reading (pp. 1-20)'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
+   title: 'Reading (pp. 21-39)'
 assignment:
 hide_time: true
 hide_from_announcements: true

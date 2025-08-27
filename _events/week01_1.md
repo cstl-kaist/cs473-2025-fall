@@ -6,7 +6,6 @@ class:
  - url: 
    title: 'Introduction & Course Overview'
 material:
- - title: 'None'
 assignment:
 hide_time: true
 hide_from_announcements: true
