@@ -5,8 +5,10 @@ week: 4
 class:
  - title: '[Studio 1] Ideation'
 material:
- - url: 
-   title: 'None'
+ - url: https://www.pensivepuffin.com/dwmcphd/syllabi/insc547_wi13/papers/wikipedia/kittur-wisdomOfCrowd-CSCW08.pdf
+   title: 'Reading'
+ - url: https://sentry.rmu.edu/SentryHTML/pdf/lib_finn_DISC8710_wisdom_of_crowds.pdf
+   title: 'Reading'
 assignment:
  - url: /projects/01_DPM1
    title: 'Project 1: Ideation'
