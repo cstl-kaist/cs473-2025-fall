@@ -3,11 +3,11 @@ type: class
 date: 2025-11-13T10:30:00+9:00
 week: 11
 class:
- - title: 'Emergent Harms'
+ - title: 'Emergent Harms (part 2)'
 material:
- - url: https://www.ijcv.org/index.php/ijcv/article/view/3809/3868
+ - url: https://joseph.seering.org/papers/Han_etal_2023_hate_raids_on_twitch.pdf
    title: 'Reading'
- - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
+ - url: http://www.lindsayblackwell.net/wp-content/uploads/2019/09/Harassment-in-Social-Virtual-Reality-CSCW-2019.pdf
    title: 'Reading'
 assignment:
 hide_time: true
