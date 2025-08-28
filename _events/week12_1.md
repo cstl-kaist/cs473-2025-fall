@@ -7,6 +7,12 @@ class:
 material:
  - url: 
    title: 'Reading'
+ - url: 
+   title: 'Reading'
+ - url: 
+   title: 'Reading'
+ - url: 
+   title: 'Reading'
 assignment: 
 hide_time: true
 hide_from_announcements: true

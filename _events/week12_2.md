@@ -6,8 +6,6 @@ class:
  - url: 
    title: 'Human-AI Interaction (part 2)'
 material:
- - url: 
-   title: 'Reading'
 assignment:
 hide_time: true
 hide_from_announcements: true

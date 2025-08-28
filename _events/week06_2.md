@@ -5,8 +5,6 @@ week: 6
 class:
  - title: 'No class (Holiday)'
 material:
- - url: 
-   title: 'None'
 assignment:
 hide_time: true
 hide_from_announcements: true

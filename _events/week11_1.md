@@ -11,6 +11,10 @@ material:
    title: 'Reading (Chapter 3)'
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
    title: 'Reading (pp. 1-17)'
+ - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
+   title: 'Reading'
+ - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
+   title: 'Reading'
 assignment: 
 hide_time: true
 hide_from_announcements: true
