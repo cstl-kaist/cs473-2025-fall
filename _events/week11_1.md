@@ -3,13 +3,15 @@ type: class
 date: 2025-11-11T10:30:00+9:00
 week: 11
 class:
- - title: 'Emergent Harms'
+ - title: 'Governance'
 material:
- - url: https://www.ijcv.org/index.php/ijcv/article/view/3809/3868
+ - url: https://joseph.seering.org/papers/Seering_etal_2019_Moderators.pdf
    title: 'Reading'
- - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
-   title: 'Reading'
-assignment:
+ - url: https://archive.org/details/Custodians_of_the_Internet_by_Terleton_Gillespie/page/n81/mode/2up
+   title: 'Reading (Chapter 3)'
+ - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
+   title: 'Reading (pp. 1-17)'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---

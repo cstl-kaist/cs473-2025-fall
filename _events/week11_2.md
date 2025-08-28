@@ -3,11 +3,12 @@ type: class
 date: 2025-11-13T10:30:00+9:00
 week: 11
 class:
- - title: 'Emergent Harms (part 2)'
+ - url: 
+   title: 'Governance (part 2)'
 material:
- - url: https://joseph.seering.org/papers/Han_etal_2023_hate_raids_on_twitch.pdf
+ - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
    title: 'Reading'
- - url: http://www.lindsayblackwell.net/wp-content/uploads/2019/09/Harassment-in-Social-Virtual-Reality-CSCW-2019.pdf
+ - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
    title: 'Reading'
 assignment:
 hide_time: true
