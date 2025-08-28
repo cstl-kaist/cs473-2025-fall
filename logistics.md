@@ -57,9 +57,9 @@ While we won't be tracking detailed levels of contribution of each member, we wi
 
 <!-- TOC --><a name="reading-responses"></a>
 ## Reading Responses
-For each class you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire by *11:59PM the night before the class.* Late reading responses won't be counted.
+For each week you are responsible for reading at least **one** of the assigned readings. As a reading response, you are required to submit **two** interesting and relevant questions to the class Campuswire by *11:59PM the night before the first class of the week.* Late reading responses won't be counted.
 
-One of these questions must be a **short answer** question, and the other must be a **multiple choice** question with four options (A, B, C, D).
+One of these questions must be a **short answer** question, and the other must be a **multiple choice** question with four options (A, B, C, D). When you submit to Campuswire, please also **clealy indicate which reading the questions are created from** (e.g., write "From Lee et al., Less Talk, More Trust: Understanding Players’ In-game Assessment of Communication Processes in League of Legends" at the top of your Campuswire post.)
 
 The following are examples of questions you might submit:
 
@@ -82,7 +82,7 @@ The questions will be graded based on their generalizability beyond the material
 <!-- TOC --><a name="faq"></a>
 ## FAQ
 **Will there be an attendance check?**  
-Yes, there will be an attendance check in each class after the first week. Students who are not present by 10:40AM will be counted as absent for that class. Students may miss up to three lectures per semester without negative consequences for their grade.
+Yes, there will be an attendance check in each class after the first week. Students who are not present by 4:10PM will be counted as absent for that class. Students may miss up to three lectures per semester without negative consequences for their grade.
 
 **I'm not a CS student. Can I take the course?**  
 Yes, as long as you meet the prerequisites.
@@ -94,7 +94,7 @@ Unfortunately, no. Please check out grad-level HCI courses.
 Please talk to Prof. Seering in person during the first week of class.
 
 **What's the course load like?**  
-This will be a course that will have reading / video materials for every class, regular milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
+This will be a course that will have reading materials for every week, regular milestones for your projects, and a few assignments throughout the semester. Please expect a continuous workload. On the positive side, since there are no big deadlines, you're not likely to pull an all-nighter. Overall, we expect the total workload to be equivalent to other 3-unit courses.
 
 **The course seems to require active participation during class, but my English isn't quite good. Maybe I shouldn't take it?**  
 We recognize that many students won't be comfortable with speaking English. But active participation isn't really about how good your English is. It's more about your engagement with the class material. We will also try to lower the partipation barrier for students with low English fluency.

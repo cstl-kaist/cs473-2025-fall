@@ -16,7 +16,7 @@ permalink: /topicpresentation/
 
 <!-- TOC --><a name="what"></a>
 ## What do I do?
-Once a semester, you'll lead a class section for **25 minutes**. This means you'll present in front of the class, show examples, run activities, ask and answer questions, and facilitate class discussion. Here are the three steps that are involved:
+Once a semester as part of a group, you'll lead a class section for **25 minutes**. This means you'll present in front of the class, show examples, run activities, ask and answer questions, and facilitate class discussion. Here are the three steps that are involved:
 * Share your lesson plan with the course staff and get feedback. This is a written document (maximum one page) that needs to be sent to the course staff.
 * Read the pre-class material thoroughly (all readings for that topic).
 * Submit your presentation material and activity document after your presentation.
