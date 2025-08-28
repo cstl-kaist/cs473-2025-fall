@@ -3,14 +3,17 @@ type: class
 date: 2025-11-06T10:30:00+9:00
 week: 10
 class:
- - url: 
-   title: 'Governance (part 2)'
+ - title: 'Evaluation (part 2)'
 material:
- - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
+ - url: 
    title: 'Reading'
- - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
+ - url: 
    title: 'Reading'
-assignment:
+ - url: 
+   title: 'Reading'
+ - url: 
+   title: 'Reading'
+assignment: 
 hide_time: true
 hide_from_announcements: true
 ---
