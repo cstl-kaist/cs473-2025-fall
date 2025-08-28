@@ -5,7 +5,6 @@ week: 15
 class:
  - title: 'Class wrap-up'
 material:
- - title: 'None'
 assignment:
 hide_time: true
 hide_from_announcements: true

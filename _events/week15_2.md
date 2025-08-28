@@ -5,7 +5,6 @@ week: 15
 class:
  - title: 'Final Presentations'
 material:
- - title: 'None'
 assignment:
  - url: /projects/05_DPM5
    title: 'Project 5: Showcase and Final Report' 
