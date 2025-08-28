@@ -5,9 +5,13 @@ week: 5
 class:
  - title: 'Collaboration (part 2)'
 material:
- - url: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=723c7adbd7f02cf0ea794fd9df22b780f8779a3b
+ - url: https://tsjournal.org/index.php/jots/article/view/5
    title: 'Reading'
- - url: https://core.ac.uk/download/pdf/83182631.pdf
+ - url: https://prohic.nl/wp-content/uploads/2021/05/213-17mei2021-InternetOnlineHateSpeechtSystematicReview.pdf
+   title: 'Reading'
+ - url: https://www.ijcv.org/index.php/ijcv/article/view/3809/3868
+   title: 'Reading'
+ - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
    title: 'Reading'
 assignment:
  - url: 

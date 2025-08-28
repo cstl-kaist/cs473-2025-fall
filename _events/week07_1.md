@@ -5,13 +5,13 @@ week: 7
 class:
  - title: 'Conflict'
 material:
- - url: https://tsjournal.org/index.php/jots/article/view/5
+ - url: https://ojs.aaai.org/index.php/ICWSM/article/view/15036
    title: 'Reading'
- - url: https://prohic.nl/wp-content/uploads/2021/05/213-17mei2021-InternetOnlineHateSpeechtSystematicReview.pdf
+ - url: https://aclanthology.org/2023.c3nlp-1.5.pdf
    title: 'Reading'
- - url: https://www.ijcv.org/index.php/ijcv/article/view/3809/3868
+ - url: https://joseph.seering.org/papers/Han_etal_2023_hate_raids_on_twitch.pdf
    title: 'Reading'
- - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
+ - url: http://www.lindsayblackwell.net/wp-content/uploads/2019/09/Harassment-in-Social-Virtual-Reality-CSCW-2019.pdf
    title: 'Reading'
 assignment: 
 hide_time: true
