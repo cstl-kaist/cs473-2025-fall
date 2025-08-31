@@ -11,9 +11,9 @@ items:
   name: Course Logistics
   icon_class: fas fa-book-reader
 
-- url: /topicpresentation/
-  name: Topic Presentation
-  icon_class: fas fa-book-reader
+# - url: /topicpresentation/
+#  name: Topic Presentation
+#  icon_class: fas fa-book-reader
 
 # - url: /assignments/
 #  name: Assignments

@@ -24,8 +24,7 @@ Here's a breakdown of how the grading will work:
 * Team Project: 40%
 * Final Exam: 30%
 * Reading Response: 10%
-* Class & Studio participation/attendance: 10%
-* Topic Presentation: 10%
+* Class, Studio, and Activity participation/attendance: 20%
 
 **Rubric-based grading**: Most assignments and project milestones will be graded based on a set of rubrics, which are designed by course staff to best capture the learning objectives of an assignment. But please keep in mind that design work is inherently subjective.
 
