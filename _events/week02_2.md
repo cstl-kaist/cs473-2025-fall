@@ -7,7 +7,7 @@ class:
    title: 'Foundations and Growth (part 2)'
 material:
 assignment: 
- - url: /projects/02_DPM0
+ - url: /projects/00_DPM0
    title: 'Project 0: Team Formation'
 hide_time: true
 hide_from_announcements: true

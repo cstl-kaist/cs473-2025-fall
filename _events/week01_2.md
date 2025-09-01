@@ -7,7 +7,7 @@ class:
    title: 'Social Computing Overview'
 material:
 assignment:
- - url: https://docs.google.com/forms/d/e/1FAIpQLSdQNG14Gzz5utB9j2o4PQh1g8t345cSg-LHIXaAXFHbQUPU0A/viewform?usp=sf_link
+ - url: https://forms.gle/c41HnvcY4BbdjHPe9
    title: Course sign-up  
 hide_time: true
 hide_from_announcements: true
