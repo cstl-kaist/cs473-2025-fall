@@ -6,13 +6,13 @@ class:
  - url: 
    title: 'Social Simulations'
 material:
- - url: 
+ - url: https://arxiv.org/pdf/2504.02234
    title: 'Reading'
- - url: 
+ - url: https://arxiv.org/pdf/2504.10157
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/pdf/10.1145/3711066
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/pdf/10.1145/3586183.3606763
    title: 'Reading'
 assignment:
 hide_time: true

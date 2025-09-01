@@ -13,7 +13,7 @@ material:
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
    title: 'Reading (pp. 1-20)'
  - url: 
-   title: 'Reading'
+   title: 'Bruckman Introduction (physical copy only)'
 assignment:
 hide_time: true
 hide_from_announcements: true

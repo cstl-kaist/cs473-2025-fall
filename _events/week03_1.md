@@ -13,7 +13,7 @@ material:
  - url: https://www.cdmc.ucla.edu/wp-content/uploads/sites/170/2020/03/Social-capital-self-esteem-and-use-of-online-s_2008_Journal-of-Applied-Dev.pdf
    title: 'Reading'
  - url: 
-   title: 'Reading'
+   title: 'Bruckman Ch. 1 (physical copy only)'
 assignment:
 hide_time: true
 hide_from_announcements: true
