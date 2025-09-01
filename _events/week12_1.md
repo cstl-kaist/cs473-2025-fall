@@ -9,9 +9,9 @@ material:
    title: 'Reading'
  - url: http://people.ischool.berkeley.edu/~hearst/papers/ieee_is_mixed_initiative.pdf
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/pdf/10.1145/3449091
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/pdf/10.1145/3290605.3300233
    title: 'Reading'
 assignment: 
 hide_time: true

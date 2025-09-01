@@ -5,14 +5,14 @@ week: 10
 class:
  - title: 'Evaluation'
 material:
- - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
-   title: 'Reading (Chapter 2 -- Grounded Theory)'
- - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
-   title: 'Reading (Chapter 5 -- Online Communities)'
- - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
-   title: 'Reading (Chapter 14 -- Understanding User Behavior)'
- - url: https://people.cs.vt.edu/~gangwang/HCI.pdf
-   title: 'Reading (Chapter 17 -- Social Network Analysis)'
+ - url: https://dl.acm.org/doi/pdf/10.1145/2531602.2531625
+   title: 'Reading'
+ - url: https://ieeexplore.ieee.org/abstract/document/5178967
+   title: 'Reading'
+ - url: https://journals.sagepub.com/doi/full/10.1177/1556264617725200
+   title: 'Reading'
+ - url: https://dl.acm.org/doi/abs/10.1145/3526113.3545616
+   title: 'Reading'
 assignment: 
 hide_time: true
 hide_from_announcements: true

@@ -9,6 +9,10 @@ material:
    title: 'Reading'
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
    title: 'Reading (pp. 1-17)'
+ - url: https://journals.sagepub.com/doi/full/10.1177/20563051231207857
+   title: 'Reading'
+ - url: https://dl.acm.org/doi/pdf/10.1145/3379337.3415858
+   title: 'Reading'
 
 assignment: 
 hide_time: true
