@@ -7,7 +7,7 @@ class:
    title: 'Social Computing Overview'
 material:
 assignment:
- - url: https://forms.gle/c41HnvcY4BbdjHPe9
+ - url: https://forms.gle/zZQskkA22pK4fEUw9
    title: Course sign-up  
 hide_time: true
 hide_from_announcements: true
