@@ -3,7 +3,7 @@ type: class
 date: 2025-09-04T10:30:00+9:00
 week: 1
 class:
- - url: 
+ - url: /lectures/02_Class_Overview.pdf
    title: 'Social Computing Overview'
 material:
 assignment:
