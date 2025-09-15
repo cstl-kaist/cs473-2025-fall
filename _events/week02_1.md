@@ -3,7 +3,7 @@ type: class
 date: 2025-09-9T10:30:00+9:00
 week: 2
 class:
- - url: 
+ - url: /lectures/03-Foundations-1-admin.pdf
    title: 'Foundations and Growth'
 material:
  - url: https://www.tandfonline.com/doi/pdf/10.1207/S15327051HCI1523_5
