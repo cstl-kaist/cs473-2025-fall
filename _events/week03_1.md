@@ -3,7 +3,7 @@ type: class
 date: 2025-09-16T10:30:00+9:00
 week: 3
 class:
- - url: 
+ - url: /lectures/05-Interactions-1-admin.pdf
    title: 'Interactions'
 material:
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/Kraut10-Contribution-current.pdf
