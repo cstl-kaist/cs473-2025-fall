@@ -11,7 +11,7 @@ material:
    title: 'Reading'
  - url: https://dl.acm.org/doi/pdf/10.1145/3449091
    title: 'Reading'
- - url: https://dl.acm.org/doi/pdf/10.1145/3290605.3300233
+ - url: 
    title: 'Reading'
 assignment: 
 hide_time: true
