@@ -7,7 +7,7 @@ class:
 material:
  - url: https://joseph.seering.org/papers/Yang_etal_2019_Channel_Matters.pdf
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/full/10.1145/3706598.3713969
    title: 'Reading'
  - url: https://scholarworks.indianapolis.iu.edu/server/api/core/bitstreams/e2f5cc35-b60c-488c-9e4e-3cf107cb3b80/content
    title: 'Reading'
