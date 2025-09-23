@@ -9,9 +9,9 @@ material:
    title: 'Reading'
  - url: https://aclanthology.org/2023.c3nlp-1.5.pdf
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/pdf/10.1145/3637394
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/abs/10.1145/3359276
    title: 'Reading'
 assignment: 
 hide_time: true
