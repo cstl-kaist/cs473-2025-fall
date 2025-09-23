@@ -5,7 +5,7 @@ week: 11
 class:
  - title: 'Governance'
 material:
- - url: https://joseph.seering.org/papers/Seering_etal_2019_Moderators.pdf
+ - url: https://dl.acm.org/doi/pdf/10.1145/3544548.3581057
    title: 'Reading'
  - url: https://kraut.hciresearch.info/wp-content/uploads/2020/02/kiesler10-Regulation-current.pdf
    title: 'Reading (pp. 1-17)'
