@@ -5,11 +5,11 @@ week: 5
 class:
  - title: 'Collaboration (part 2)'
 material:
- - url: https://prohic.nl/wp-content/uploads/2021/05/213-17mei2021-InternetOnlineHateSpeechtSystematicReview.pdf
+ - url: https://dl.acm.org/doi/pdf/10.1145/3313831.3376383
    title: 'Reading'
  - url: https://dl.acm.org/doi/abs/10.1145/3498361.3538939
    title: 'Reading'
- - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
+ - url: https://dl.acm.org/doi/pdf/10.1145/3613904.3642473
    title: 'Reading'
  - url: 
    title: 'Bruckman Ch. 6 (physical copy only)'
