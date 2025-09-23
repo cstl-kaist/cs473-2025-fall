@@ -11,7 +11,7 @@ material:
    title: 'Reading'
  - url: 
    title: 'Reading'
- - url: http://www.lindsayblackwell.net/wp-content/uploads/2019/09/Harassment-in-Social-Virtual-Reality-CSCW-2019.pdf
+ - url: 
    title: 'Reading'
 assignment: 
 hide_time: true

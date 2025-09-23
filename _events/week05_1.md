@@ -7,7 +7,7 @@ class:
 material:
  - url: https://prohic.nl/wp-content/uploads/2021/05/213-17mei2021-InternetOnlineHateSpeechtSystematicReview.pdf
    title: 'Reading'
- - url: 
+ - url: https://dl.acm.org/doi/abs/10.1145/3498361.3538939
    title: 'Reading'
  - url: https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-disinformation-and-online-propaganda/D14406A631AA181839ED896916598500
    title: 'Reading'
