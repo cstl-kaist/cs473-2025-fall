@@ -11,8 +11,8 @@ material:
    title: 'Reading'
  - url: https://dl.acm.org/doi/pdf/10.1145/3613904.3642473
    title: 'Reading'
- - url: 
-   title: 'Bruckman Ch. 6 (physical copy only)'
+ - url: https://dl.acm.org/doi/pdf/10.1145/3274465
+   title: 'Reading'
 assignment:
  - url: 
    title:
