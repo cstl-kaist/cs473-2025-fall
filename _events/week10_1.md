@@ -3,7 +3,8 @@ type: class
 date: 2025-11-04T10:30:00+9:00
 week: 10
 class:
- - title: 'Evaluation'
+ - url: /lectures/11-Evaluation-1-admin.pdf
+   title: 'Evaluation'
 material:
  - url: https://dl.acm.org/doi/pdf/10.1145/2531602.2531625
    title: 'Reading'

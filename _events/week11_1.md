@@ -3,7 +3,8 @@ type: class
 date: 2025-11-11T10:30:00+9:00
 week: 11
 class:
- - title: 'Governance'
+ - url: /lectures/13-Evaluation-3-admin.pdf
+   title: 'Governance'
 material:
  - url: https://dl.acm.org/doi/pdf/10.1145/3544548.3581057
    title: 'Reading'

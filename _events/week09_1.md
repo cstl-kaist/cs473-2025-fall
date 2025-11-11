@@ -3,7 +3,8 @@ type: class
 date: 2025-10-28T10:30:00+9:00
 week: 9
 class:
- - title: 'Value'
+ - url: /lectures/10-Value-admin.pdf
+   title: 'Value'
 material:
  - url: https://joseph.seering.org/papers/Yang_etal_2019_Channel_Matters.pdf
    title: 'Reading'
