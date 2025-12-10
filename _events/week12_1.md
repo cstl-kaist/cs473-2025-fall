@@ -3,7 +3,8 @@ type: class
 date: 2025-11-18T10:30:00+9:00
 week: 12
 class:
- - title: 'Human-AI Interaction'
+ - url: /lectures/16-HAI-1-admin.pdf
+   title: 'Human-AI Interaction'
 material:
  - url: https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf
    title: 'Reading'
